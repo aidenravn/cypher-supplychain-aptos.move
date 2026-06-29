@@ -185,21 +185,6 @@ We rely on:
 
 ⸻
 
-⚙️ Architecture Insight
-
-Ethereum (State + Ownership)
-        │
-        ▼
-Event Layer (Verifiable History)
-        │
-        ▼
-Aptos Move (Pricing Execution)
-        │
-        ▼
-Future: Zero1FHE (Encrypted Computation)
-
-⸻
-
 📜 License
 
 MIT
