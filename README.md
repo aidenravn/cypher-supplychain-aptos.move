@@ -1,6 +1,6 @@
 SupplyChainCypherAptos
 
-A cross-chain supply chain protocol connecting Ethereum, Aptos Move, and future encrypted computation systems. (z1)
+A cross-chain supply chain protocol connecting Ethereum, Aptos Move, and future encrypted computation systems.
 
 ⸻
 
